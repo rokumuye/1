@@ -1,44 +1,89 @@
-﻿#EXTINF:-1,TR: Siteler TV
-http://guekserver.com:8080/gk368gcyr/drogbaba11/16003
-#EXTINF:-1,TR: BEIN GURME HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/128
-#EXTINF:-1,TR | CHASSE  ET PECHE
-http://guekserver.com:8080/gk368gcyr/drogbaba11/16600
-#EXTINF:-1,TR: 24 KITCHEN
-http://guekserver.com:8080/gk368gcyr/drogbaba11/16601
-#EXTINF:-1,TR: ANIMAUX
-http://guekserver.com:8080/gk368gcyr/drogbaba11/16599
-#EXTINF:-1,TR: Automoto la Chaine  HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/16602
-#EXTINF:-1,TR: NATIONAL GEOGRAPHIC HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/120
-#EXTINF:-1,TR: NATIONAL GEO PEOPLE HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/121
-#EXTINF:-1,TR: NATIONAL GEO WILD HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/122
-#EXTINF:-1,TR: BBC EARTH HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/3840
-#EXTINF:-1,TR: ANIMAL PLANET TR HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/117
-#EXTINF:-1,TR: HISTORY HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/123
-#EXTINF:-1,TR: HISTORY VIASAT HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/7343
-#EXTINF:-1,TR: DAVINCI LEARNING HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/127
-#EXTINF:-1,TR: IZ TV HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/125
-#EXTINF:-1,TR: IDX-HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/124
-#EXTINF:-1,TR: DTX HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/2573
-#EXTINF:-1,TR: DISCOVERY
-http://guekserver.com:8080/gk368gcyr/drogbaba11/3835
-#EXTINF:-1,TR: DISCOVERYSCIENCE
-http://guekserver.com:8080/gk368gcyr/drogbaba11/3834
-#EXTINF:-1,TR: DISCOVERY SHOWCASE HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/119
-#EXTINF:-1,TR: ANIMALPLANET
-http://guekserver.com:8080/gk368gcyr/drogbaba11/3836
-#EXTINF:-1,TR: DMAX HD
-http://guekserver.com:8080/gk368gcyr/drogbaba11/152
+﻿#EXTM3U
+#EXTINF:-1,BILGILENDIRME EKRANI
+http://guekserver.com:8080/gk368gcyr/drogbaba11/3689
+#EXTINF:-1,HD: BEIN 4K
+http://guekserver.com:8080/gk368gcyr/drogbaba11/9340
+#EXTINF:-1,HD: beIN SPORTS 1
+http://guekserver.com:8080/gk368gcyr/drogbaba11/1
+#EXTINF:-1,TR: BEIN SPOR 1 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/8495
+#EXTINF:-1,TR: BEIN SPOR 1 UHD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/8808
+#EXTINF:-1,HD: beIN SPORTS 2
+http://guekserver.com:8080/gk368gcyr/drogbaba11/2
+#EXTINF:-1,TR: BEIN SPOR 2 UHD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/8809
+#EXTINF:-1,HD: beIN SPORTS 3
+http://guekserver.com:8080/gk368gcyr/drogbaba11/3
+#EXTINF:-1,HD: beIN SPORTS 4
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4
+#EXTINF:-1,HD: beIN SPORTS MAX 1
+http://guekserver.com:8080/gk368gcyr/drogbaba11/9
+#EXTINF:-1,HD: beIN SPORTS MAX 2
+http://guekserver.com:8080/gk368gcyr/drogbaba11/3934
+#EXTINF:-1,TR: BEIN HABER UHD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/8811
+#EXTINF:-1,HD: beIN Haber
+http://guekserver.com:8080/gk368gcyr/drogbaba11/6924
+#EXTINF:-1,SD: beIN SPORTS 1
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4023
+#EXTINF:-1,SD: beIN SPORTS 2
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4024
+#EXTINF:-1,SD: beIN SPORTS 3
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4025
+#EXTINF:-1,SD: beIN SPORTS 4
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4026
+#EXTINF:-1,SD: beIN SPORTS MAX 1
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4027
+#EXTINF:-1,SD: beIN SPORTS MAX 2
+http://guekserver.com:8080/gk368gcyr/drogbaba11/4028
+#EXTINF:-1,SD: beIN Haber
+http://guekserver.com:8080/gk368gcyr/drogbaba11/6925
+#EXTINF:-1,TR: TIVIBUSPOR 1 UHD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/8810
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/10
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/11
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/12
+#EXTINF:-1,TR: TIVIBU SPOR 4 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/13
+#EXTINF:-1,TR: SMART SPOR UHD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/24121
+#EXTINF:-1,TR: SMART SPOR HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/14
+#EXTINF:-1,TR: SMART SPOR SD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/24122
+#EXTINF:-1,TR: S SPORT HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/2918
+#EXTINF:-1,TR: S SPORT 2 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/20990
+#EXTINF:-1,TR: NBA TV HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/3763
+#EXTINF:-1,TR: TRT SPOR SD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/15993
+#EXTINF:-1,TR: TRT SPOR HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/148
+#EXTINF:-1,TR: EUROSPORT-1 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/144
+#EXTINF:-1,TR: EUROSPORT-2 HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/145
+#EXTINF:-1,TR: NBA TV HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/156
+#EXTINF:-1,TR: FENERBAHCE TV
+http://guekserver.com:8080/gk368gcyr/drogbaba11/140
+#EXTINF:-1,TR: BJK TV
+http://guekserver.com:8080/gk368gcyr/drogbaba11/143
+#EXTINF:-1,TR: GALATASARAY TV
+http://guekserver.com:8080/gk368gcyr/drogbaba11/141
+#EXTINF:-1,TR: BURSASPOR TV
+http://guekserver.com:8080/gk368gcyr/drogbaba11/142
+#EXTINF:-1,TR: TAY TV HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/154
+#EXTINF:-1,TR: IDMAN TV
+http://guekserver.com:8080/gk368gcyr/drogbaba11/146
+#EXTINF:-1,TR: A SPOR HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/150
+#EXTINF:-1,TR: SPORTS TV HD
+http://guekserver.com:8080/gk368gcyr/drogbaba11/155
